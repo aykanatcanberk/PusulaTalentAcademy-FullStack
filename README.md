@@ -1,1 +1,0 @@
-# PusulaTalentAcademy-FullStack
